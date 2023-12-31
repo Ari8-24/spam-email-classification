@@ -5,6 +5,9 @@ from nltk.corpus import stopwords
 import string
 from nltk.stem.porter import PorterStemmer
 
+# Download NLTK resource
+nltk.download('punkt')
+
 porter_stemmer = PorterStemmer()
 
 def modify_text(text):
