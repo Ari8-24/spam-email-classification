@@ -4,6 +4,8 @@ A spam message detection app project was conducted for the completion of my fina
 
 2. To test the app locally, You can open the project in python virtual environment like PyCharm and run using " streamlit run app.py " in the terminal.
 
-3. To view the python notebook navigate to the "SpamEmailClassificationFYP.ipynb" file
+3. To view the python notebook navigate to the "SpamEmailClassificationFYP.ipynb" file.
 
 4. To view an in detail documentation of the project, navigate to the " SpamEmailClassification Collab Notebook and documentation " folder.
+
+5. To view the source code for the Streamlit Web APP in pyhton, navigate to the "app.py" file.
